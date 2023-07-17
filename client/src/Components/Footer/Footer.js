@@ -4,7 +4,7 @@ import './Footer.css';
 const Footer = () => {
     return (
         <footer>
-            <h2>MERN APP  Meriem OUNI © 2022 All rights reserved.</h2>
+            <h2>MERN APP  Mohamed App © 2023 All rights reserved.</h2>
         </footer>
     )
 }
